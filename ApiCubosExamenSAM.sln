@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCubosExamenSAM", "ApiCubosExamenSAM\ApiCubosExamenSAM.csproj", "{21262DE0-839F-4AA3-B24F-8DECF6DAEA9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21262DE0-839F-4AA3-B24F-8DECF6DAEA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21262DE0-839F-4AA3-B24F-8DECF6DAEA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21262DE0-839F-4AA3-B24F-8DECF6DAEA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21262DE0-839F-4AA3-B24F-8DECF6DAEA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AAB372F-93B5-4C25-B4C0-92D268352543}
+	EndGlobalSection
+EndGlobal
